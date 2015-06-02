@@ -1,0 +1,58 @@
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\bin\Release\BatchInspector.exe
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\bin\Release\BatchInspector.pdb
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\bin\Release\GalaSoft.MvvmLight.dll
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\bin\Release\GalaSoft.MvvmLight.Extras.dll
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\bin\Release\Ionic.Zip.Reduced.dll
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\bin\Release\System.Windows.Interactivity.dll
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\bin\Release\GalaSoft.MvvmLight.xml
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\bin\Release\GalaSoft.MvvmLight.Extras.xml
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\bin\Release\System.Windows.Interactivity.xml
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\obj\Release\MainWindow.baml
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\obj\Release\Skins\MainSkin.baml
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\obj\Release\MainWindow.g.cs
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\obj\Release\App.g.cs
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\obj\Release\BatchInspector_MarkupCompile.cache
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\obj\Release\BatchInspector_MarkupCompile.lref
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\obj\Release\App.baml
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\obj\Release\BatchInspector.g.resources
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\obj\Release\BatchInspector.Properties.Resources.resources
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\obj\Release\BatchInspector.csproj.GenerateResource.Cache
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\obj\Release\BatchInspector.exe
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\obj\Release\BatchInspector.pdb
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\bin\Release\BatchInspector.exe.config
+C:\Users\pat\Documents\PrimaPower\SimulationApps\BatchInspector\obj\Release\BatchInspector.csprojResolveAssemblyReference.cache
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\BatchInspector.exe.config
+C:\Software Projects\SimulationApps\BatchInspector\obj\Release\BatchInspector.exe
+C:\Software Projects\SimulationApps\BatchInspector\obj\Release\BatchInspector.pdb
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\BatchInspector.exe
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\BatchInspector.pdb
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\Ionic.Zip.Reduced.dll
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\System.Windows.Interactivity.dll
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\GalaSoft.MvvmLight.xml
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\GalaSoft.MvvmLight.Extras.xml
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\System.Windows.Interactivity.xml
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Software Projects\SimulationApps\BatchInspector\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Software Projects\SimulationApps\BatchInspector\obj\Release\BatchInspector.csprojResolveAssemblyReference.cache
+C:\Software Projects\SimulationApps\BatchInspector\obj\Release\Skins\MainSkin.baml
+C:\Software Projects\SimulationApps\BatchInspector\obj\Release\MainWindow.g.cs
+C:\Software Projects\SimulationApps\BatchInspector\obj\Release\App.g.cs
+C:\Software Projects\SimulationApps\BatchInspector\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Software Projects\SimulationApps\BatchInspector\obj\Release\BatchInspector_MarkupCompile.cache
+C:\Software Projects\SimulationApps\BatchInspector\obj\Release\BatchInspector_MarkupCompile.lref
+C:\Software Projects\SimulationApps\BatchInspector\obj\Release\App.baml
+C:\Software Projects\SimulationApps\BatchInspector\obj\Release\MainWindow.baml
+C:\Software Projects\SimulationApps\BatchInspector\obj\Release\BatchInspector.g.resources
+C:\Software Projects\SimulationApps\BatchInspector\obj\Release\BatchInspector.Properties.Resources.resources
+C:\Software Projects\SimulationApps\BatchInspector\obj\Release\BatchInspector.csproj.GenerateResource.Cache
