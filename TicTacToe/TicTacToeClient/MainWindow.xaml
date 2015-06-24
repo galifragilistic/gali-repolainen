@@ -1,0 +1,117 @@
+﻿<Window x:Class="TicTacToeClient.MainWindow"
+        x:Name="winMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ignore="http://www.ignore.com"
+        xmlns:vm="clr-namespace:TicTacToeClient.ViewModel"
+        xmlns:view="clr-namespace:TicTacToeClient.Views"
+        mc:Ignorable="d ignore"
+        MinHeight="400"
+        MinWidth="300"
+        Height="400"
+        Width="300"
+        MaxHeight="400"
+        MaxWidth="300"
+        Title="TicTacToe"
+        DataContext="{Binding Main, Source={StaticResource Locator}}">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Skins/MainSkin.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid x:Name="layoutGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition />
+            <RowDefinition Height="50" />
+        </Grid.RowDefinitions>
+
+        <!-- scoreboard -->
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <Label FontWeight="Bold" Content="You" Padding="0" HorizontalContentAlignment="Center" Foreground="{Binding MyColor}"/>
+            <Label FontWeight="Bold" Content="Them" Padding="0" HorizontalContentAlignment="Center" Grid.Column="2" Foreground="{Binding TheirColor}"/>
+
+            <Label Content="VS" Grid.Column="1" Grid.RowSpan="2" HorizontalContentAlignment="Center" Padding="0" VerticalContentAlignment="Center"
+                   FontSize="30" FontWeight="Bold" />
+
+            <Label Content="{Binding MyPoints}" FontWeight="Bold" Grid.Row="1" Padding="0" HorizontalContentAlignment="Center"
+                   VerticalContentAlignment="Center" FontSize="24" Foreground="{Binding MyColor}"/>
+            <Label Content="{Binding OpponentPoints}" FontWeight="Bold" Grid.Row="1" Grid.Column="2"
+                   Padding="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="24" Foreground="{Binding TheirColor}"/>
+        </Grid>
+
+        <!--<ContentControl Content="{Binding CurrentViewModel}" />-->
+        <view:GameView GameStatus="{Binding GameStatus}" IsEnabled="{Binding IsMyTurn}" Grid.Row="1"></view:GameView>
+
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <TextBox Text="{Binding IPAddress}" Height="25" VerticalContentAlignment="Center"  IsEnabled="{Binding EnableControls}"/>
+            <TextBox Text="{Binding Port}" Height="25" Grid.Column="1" VerticalContentAlignment="Center"  IsEnabled="{Binding EnableControls}"/>
+            <Button Content="{Binding ConnectionButtonContent}" Command="{Binding ConnectCommand}" Grid.Column="2" Height="25"/>
+
+            <!-- Debug log -->
+            <Label IsEnabled="False" Grid.Row="1" Grid.ColumnSpan="2" Content="{Binding Log}" Foreground="Gray" MouseUp="Label_MouseUp"/>
+
+            <Button x:Name="btnChat" Content="Chat >>" Grid.Column="2" Grid.Row="1" Width="50" HorizontalAlignment="Right" Click="btnChat_Click"  />
+            <Popup x:Name="popChat" StaysOpen="True" PopupAnimation="Slide" PlacementTarget="{Binding ElementName=layoutGrid}"
+                   Placement="Right" IsOpen="False" RenderTransformOrigin="5,0">
+                <Border BorderBrush="LightGray" BorderThickness="1" Width="300"
+                        Height="350" Background="White">
+                    <Grid Margin="10">
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition Height="40" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition Width="60" />
+                        </Grid.ColumnDefinitions>
+                        
+                        <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" Grid.ColumnSpan="2">
+                            <TextBox Text="{Binding ChatLog}" IsEnabled="False" />
+                        </ScrollViewer>
+                        
+                        <TextBox Text="{Binding ChatSay}" Grid.Row="1" Height="20"/>
+                        <Button Content="Send" Command="{Binding SayCommand}" Height="20" Grid.Column="1" Grid.Row="1" Padding="0"/>
+                    </Grid>
+                </Border>
+            </Popup>
+
+            <!--<Popup x:Name="popDebug" StaysOpen="False">
+                <Grid Width="600" Height="300">
+                    <ScrollViewer x:Name="scroll" VerticalScrollBarVisibility="Auto">
+                        <TextBox Text="{Binding DebugLog}" IsEnabled="False" Margin="2 2 2 0" TextChanged="TextBox_TextChanged"/>
+                    </ScrollViewer>
+                </Grid>
+            </Popup>-->
+        </Grid>
+    </Grid>
+</Window>

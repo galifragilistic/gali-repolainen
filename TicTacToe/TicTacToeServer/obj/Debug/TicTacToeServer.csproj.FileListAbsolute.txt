@@ -1,0 +1,62 @@
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer.csprojResolveAssemblyReference.cache
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\Skins\MainSkin.baml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\MainWindow.g.cs
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\App.g.cs
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer_MarkupCompile.cache
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer_MarkupCompile.lref
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\TicTacToeServer.exe.config
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\TicTacToeServer.exe
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\TicTacToeServer.pdb
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\TicTacToeServer.exe.CodeAnalysisLog.xml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\TicTacToeServer.exe.lastcodeanalysissucceeded
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\GalaSoft.MvvmLight.dll
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\PresentationCore.dll
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\PresentationFramework.dll
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\System.Windows.Interactivity.dll
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\GalaSoft.MvvmLight.xml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\System.Windows.Interactivity.xml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\App.baml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\MainWindow.baml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer.g.resources
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer.Properties.Resources.resources
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer.csproj.GenerateResource.Cache
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer.exe
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer.pdb
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\Skins\MainSkin.baml
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\MainWindow.g.cs
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\App.g.cs
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer_MarkupCompile.cache
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer_MarkupCompile.lref
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\TicTacToeServer.exe.config
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\TicTacToeServer.exe
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\TicTacToeServer.pdb
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\PresentationCore.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\PresentationFramework.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\System.Windows.Interactivity.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\System.Windows.Interactivity.xml
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\App.baml
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\MainWindow.baml
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer.g.resources
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer.Properties.Resources.resources
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer.csproj.GenerateResource.Cache
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer.exe
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer.pdb
+D:\My Documents\tictactoe\TicTacToe\TicTacToeServer\obj\Debug\TicTacToeServer.csprojResolveAssemblyReference.cache

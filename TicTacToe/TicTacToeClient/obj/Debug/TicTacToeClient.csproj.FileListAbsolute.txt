@@ -1,0 +1,60 @@
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\TicTacToeClient.exe
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\TicTacToeClient.pdb
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\TicTacToeClient.exe.CodeAnalysisLog.xml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\TicTacToeClient.exe.lastcodeanalysissucceeded
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\GalaSoft.MvvmLight.dll
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\System.Windows.Interactivity.dll
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\GalaSoft.MvvmLight.xml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\System.Windows.Interactivity.xml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient.csprojResolveAssemblyReference.cache
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\MainWindow.baml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\Skins\MainSkin.baml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\MainWindow.g.cs
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\App.g.cs
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient_MarkupCompile.cache
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient_MarkupCompile.lref
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\App.baml
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient.g.resources
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient.Properties.Resources.resources
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient.csproj.GenerateResource.Cache
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient.exe
+C:\MySoftware\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient.pdb
+C:\MySoftware\TicTacToe\TicTacToe\TicTacToeClient\obj\Debug\Views\GameView.baml
+C:\MySoftware\TicTacToe\TicTacToe\TicTacToeClient\obj\Debug\Views\GameView.g.cs
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\TicTacToeClient.exe
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\TicTacToeClient.pdb
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\GalaSoft.MvvmLight.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\System.Windows.Interactivity.dll
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\GalaSoft.MvvmLight.xml
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\bin\Debug\System.Windows.Interactivity.xml
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\Skins\MainSkin.baml
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\Views\GameView.baml
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\MainWindow.g.cs
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\Views\GameView.g.cs
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\App.g.cs
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient_MarkupCompile.cache
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient_MarkupCompile.lref
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\App.baml
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\MainWindow.baml
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient.g.resources
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient.Properties.Resources.resources
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient.csproj.GenerateResource.Cache
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient.exe
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient.pdb
+D:\My Documents\tictactoe\TicTacToe\TicTacToeClient\obj\Debug\TicTacToeClient.csprojResolveAssemblyReference.cache
